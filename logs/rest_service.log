@@ -1,0 +1,4 @@
+2021-01-21T17:12:47.307Z - INFO  [http-nio-8080-exec-2:SearchController] - [SearchController::findUser] - Request: {"id":1}
+2021-01-21T17:12:47.309Z - INFO  [http-nio-8080-exec-2:SearchController] - [SearchController::findUser] - Response: {"name":"Test Testov"}
+2021-01-21T17:12:48.041Z - INFO  [http-nio-8080-exec-2:SearchController] - [SearchController::encryptAndDecryptData] Encrypted request: NW+0ifXpQJRC1xZzO1JRGA==; Decrypted request: {"id":1}
+2021-01-21T17:12:48.660Z - INFO  [http-nio-8080-exec-2:SearchController] - [SearchController::encryptAndDecryptData] Encrypted request: cCPgf/9QfI0Hf0NDw+EUYGHoNT0bRw3VAKNFosRszl8=; Decrypted request: {"name":"Test Testov"}
